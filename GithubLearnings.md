@@ -24,6 +24,9 @@
 ## Profile md file
 - I have also created a profile Markdown file as suggested in the walkthrough
 
+## Added this change outside the main branch
+After pushing the MD file to main branch. Created a new dummy branch and made this change to reflect in the dummy branch. Once pushed, I will be creating a pull request to finish the assignment.
+
 ## Conclusion :tada:
 
 I've made great progress in understanding the basics of GitHub, but there's still more to learn and explore. With time and practice, I'm confident I'll become a GitHub pro! :muscle:
